@@ -8,5 +8,5 @@
 ----
 ## Q: シリアルモジュールのLEDインジケータの内容について教えてください。
 ### A: 下記画像を参照ください。  
-![LED01](https://raw.githubusercontent.com/bit-trade-one/ADRSRU4-RaspberryPi-Relay-Unit/master/image/image-Dec-01-2020-01-52-54-68-AM.png) 
+![LED01](https://github.com/bit-trade-one/ADGH07_ScaleModelRailway_Controller/blob/master/image/image-Dec-01-2020-01-52-54-68-AM.png) 
 ----
