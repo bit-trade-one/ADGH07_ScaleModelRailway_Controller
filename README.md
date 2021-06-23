@@ -11,6 +11,8 @@
 
 ## [製品ページ](https://bit-trade-one.co.jp/product/assemblydisk/adgh07/)
 
+## [マニュアル](https://github.com/bit-trade-one/ADGH07_ScaleModelRailway_Controller/blob/master/manual/e3dc2cfcc82dab0e162784d54a7a1312.pdf)
+
 ## 製品仕様
 
 【搭載機能】   
