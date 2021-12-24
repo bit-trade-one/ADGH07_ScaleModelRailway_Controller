@@ -29,4 +29,4 @@ Windows10の場合左下のWindowsマークを右クリックし、デバイス�
 ポート接続状況を確認ください。  
 USB to UART Bridge (COM〇〇)  
 の〇〇が本デバイス鉄道模型実験ボードとの通信に使用するCOM番号です。こちらを控えてarduinoIDEより接続ください。  
-![COMポート確認方法USBシリアル](https://raw.githubusercontent.com/bit-trade-one/ADGH07_ScaleModelRailway_Controller/master/image/COM%E3%83%9D%E3%83%BC%E3%83%88%E7%A2%BA%E8%AA%8D%E6%96%B9%E6%B3%95USB%E3%82%B7%E3%83%AA%E3%82%A2%E3%83%AB.png) 
+<img src="https://raw.githubusercontent.com/bit-trade-one/ADGH07_ScaleModelRailway_Controller/master/image/COM%E3%83%9D%E3%83%BC%E3%83%88%E7%A2%BA%E8%AA%8D%E6%96%B9%E6%B3%95USB%E3%82%B7%E3%83%AA%E3%82%A2%E3%83%AB.png" width="720px">  
